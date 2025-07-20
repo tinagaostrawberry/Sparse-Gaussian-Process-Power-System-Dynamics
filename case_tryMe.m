@@ -1,0 +1,4 @@
+runSetup
+runGenerateData
+runLearn
+runVisualizeTrainingResults
