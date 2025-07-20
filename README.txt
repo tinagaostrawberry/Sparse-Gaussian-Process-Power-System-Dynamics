@@ -63,7 +63,7 @@ Alteratively, you can customize your own workflow in the following steps:
      - 'optimizerNormalize' is a logical dictating whether to use
         normalized data (correlation matrices) over the original un-
         normalized data (covariance matrices)
-      - 'useWoodburyMatIdentityForInverse' is a logical dictating whether
+     - 'useWoodburyMatIdentityForInverse' is a logical dictating whether
         to use a matrix inversion lemma for better conditioning when
         solving the inverse of a large covariance matrix
    3. Run "runGenerateData.m"
